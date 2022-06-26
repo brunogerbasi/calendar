@@ -1,2 +1,20 @@
-# calendar
-Calendar React JS + Marvel Api
+# Calendar + Marvel API
+
+-React JS
+-Hooks
+-Redux
+-Contextapi
+-Axios
+-Styled-components
+
+## Install
+
+cd calendar
+
+yarn
+npm install
+
+## Start 
+
+yarn start
+npm start
