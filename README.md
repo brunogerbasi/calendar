@@ -12,6 +12,7 @@
 cd calendar
 
 yarn
+
 npm install
 
 ## Start 
