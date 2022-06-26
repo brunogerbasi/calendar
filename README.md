@@ -18,3 +18,7 @@ npm install
 
 yarn start
 npm start
+
+## API
+
+https://developer.marvel.com/
